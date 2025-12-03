@@ -21,3 +21,12 @@ https://github.com/alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia
 ## Visualizar o projeto na IDE:
 
 Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, esse recurso do GitHub é bem bacana
+
+---
+
+* [O que é GEN AI](./gen-ai/01-o-que-e-gen-ai/resumo.md)
+* Introdução as diferenças de AI
+* Como GEN AI aprende
+* História da AI
+* O Inverno da AI
+* Evolução dos modelos 2 grama
