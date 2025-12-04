@@ -1,3 +1,5 @@
+<img alt="Tela 01" src="infografico.png" style="margin: 15px 0" />
+
 # IA Tradicional vs. IA Generativa: Entendendo as Diferenças Essenciais
 
 ## 1. Introdução: Desvendando os Dois Mundos da IA
