@@ -31,3 +31,5 @@ Essa habilidade de criar não é uma promessa futura; ela já está remodelando 
 ## Conclusão: A IA como Ferramenta de Criação
 
 A IA generativa marca o momento em que deixamos de usar as máquinas apenas para analisar o passado e passamos a usá-las para criar o futuro. Elas evoluíram de analisadoras de dados para verdadeiras parceiras criativas. Por trás dessa magia, existem sistemas complexos que combinam conceitos de aprendizado profundo, mas sua essência é incrivelmente poderosa: a habilidade de gerar o novo a partir do que foi aprendido. Com isso, a IA generativa abre um universo de possibilidades criativas que, até pouco tempo, pertenciam apenas à ficção científica.
+
+### [Assista ao resumo em vídeo](https://github.com/user-attachments/assets/5065d4a6-f552-4621-9530-22187897e317)

@@ -48,3 +48,5 @@ Agora que entendemos os papéis distintos de cada uma, uma comparação direta a
 Conclui-se, portanto, que a IA Tradicional e a Generativa não são concorrentes, mas sim ferramentas poderosas com propósitos distintos. Uma analisa o passado para prever o futuro; a outra usa o passado como inspiração para criar algo inteiramente novo.
 
 Para nunca mais esquecer, basta lembrar das analogias: **a IA Tradicional é o crítico que seleciona a melhor resposta**, enquanto **a IA Generativa é o escritor que compõe uma obra original**. Entender essa distinção fundamental entre o crítico analítico e o escritor criativo é o passo crucial para navegar com confiança no incrível mundo da Inteligência Artificial.
+
+### [Assista ao resumo em vídeo](https://github.com/user-attachments/assets/2d97cc2c-dc56-4e7e-ae4e-fe1876f8cb91)
