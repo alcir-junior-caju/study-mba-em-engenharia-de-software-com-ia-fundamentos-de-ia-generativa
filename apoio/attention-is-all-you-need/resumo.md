@@ -1,3 +1,5 @@
+<iframe width="560" height="315" src="https://github.com/alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia-fundamentos-de-ia-generativa/blob/main/apoio/attention-is-all-you-need/resumo.mp4" frameborder="0" allowfullscreen></iframe>
+
 # Desvendando o Transformer: Uma Introdução ao Modelo "Attention Is All You Need"
 
 ## 1. A Revolução Silenciosa: Superando os Limites da Memória Sequencial

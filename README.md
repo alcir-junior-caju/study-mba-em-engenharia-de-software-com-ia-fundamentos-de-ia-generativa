@@ -30,3 +30,8 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 * História da AI
 * O Inverno da AI
 * Evolução dos modelos 2 grama
+
+---
+
+## Material de apoio:
+* [Attention is all you need](./apoio/attention-is-all-you-need/resumo.md)
