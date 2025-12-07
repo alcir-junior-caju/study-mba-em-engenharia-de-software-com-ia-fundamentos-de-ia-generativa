@@ -93,4 +93,4 @@ Os três pontos mais importantes a serem retidos sobre o Transformer são:
 
 O legado do Transformer é a prova de que, às vezes, a solução mais elegante para um problema complexo não é adicionar mais peças, mas repensar a fundação por completo. A era da atenção abriu caminho não apenas para a IA de linguagem, mas inspirou novas pesquisas para lidar com imagens, áudio e vídeo, redefinindo o horizonte do que é possível na inteligência artificial.
 
-### [Assista ao resumo em vídeo](./resumo.mp4)
+### [Assista ao resumo em vídeo](https://github.com/user-attachments/assets/02fbbf7c-d500-40d4-916a-3a05a9369d24)
