@@ -1,5 +1,3 @@
-<iframe width="560" height="315" src="https://github.com/alcir-junior-caju/study-mba-em-engenharia-de-software-com-ia-fundamentos-de-ia-generativa/blob/main/apoio/attention-is-all-you-need/resumo.mp4" frameborder="0" allowfullscreen></iframe>
-
 # Desvendando o Transformer: Uma Introdução ao Modelo "Attention Is All You Need"
 
 ## 1. A Revolução Silenciosa: Superando os Limites da Memória Sequencial
@@ -94,3 +92,5 @@ Os três pontos mais importantes a serem retidos sobre o Transformer são:
 * **Resultados de Ponta:** Essa nova arquitetura não apenas treinou "significativamente mais rápido", mas também alcançou um "novo estado da arte" em tarefas de tradução automática, superando todos os modelos anteriores.
 
 O legado do Transformer é a prova de que, às vezes, a solução mais elegante para um problema complexo não é adicionar mais peças, mas repensar a fundação por completo. A era da atenção abriu caminho não apenas para a IA de linguagem, mas inspirou novas pesquisas para lidar com imagens, áudio e vídeo, redefinindo o horizonte do que é possível na inteligência artificial.
+
+### [Assista ao resumo em vídeo](./resumo.mp4)
