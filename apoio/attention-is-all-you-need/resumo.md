@@ -1,3 +1,5 @@
+<img alt="Tela 01" src="infografico.png" style="margin: 15px 0" />
+
 # Desvendando o Transformer: Uma Introdução ao Modelo "Attention Is All You Need"
 
 ## 1. A Revolução Silenciosa: Superando os Limites da Memória Sequencial
