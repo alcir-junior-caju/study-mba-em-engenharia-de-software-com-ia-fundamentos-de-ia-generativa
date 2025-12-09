@@ -26,7 +26,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 
 * [O que é GEN AI](./gen-ai/01-o-que-e-gen-ai/resumo.md)
 * [Introdução as diferenças de AI](./gen-ai/02-introducao-as-diferencas-de-ai/resumo.md)
-* Como GEN AI aprende
+* [Como GEN AI aprende](./gen-ai/03-como-gen-ai-aprende/resumo.md)
 * História da AI
 * O Inverno da AI
 * Evolução dos modelos 2 grama
