@@ -24,12 +24,49 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 
 ---
 
+### GEN AI
 * [O que é GEN AI](./gen-ai/01-o-que-e-gen-ai/resumo.md)
 * [Introdução as diferenças de AI](./gen-ai/02-introducao-as-diferencas-de-ai/resumo.md)
 * [Como GEN AI aprende](./gen-ai/03-como-gen-ai-aprende/resumo.md)
 * [História da AI](./gen-ai/04-historia-da-ai-o-inicio/resumo.md)
 * O Inverno da AI
 * Evolução dos modelos 2 grama
+
+### Aprofundamento na AI e LLM
+* Cadeias de Markov
+* Redes Neurais Profundas
+* RNNs
+* Transformers
+* Tokens
+* LLMs
+* GANs
+* Aprofundamento em LLM
+* Position Wise Layers
+* Positional Encoding
+* LayerNorm
+* Pré Treinamento
+* MLM
+* Fine Tuning Supervisionado
+* RLHF
+* Otimização para Grandes Modelos
+* Alucinação
+* Estratégias Alucinação
+* Context Window
+* Raciocínio Simbólico
+* Conhecimento em tempo real
+* Objetivos Geração de Respostas
+
+### Hands On
+* Introdução a temperatura
+* Hands on - Temperatura
+* Hands on - Janela tokens
+* Top_k e Top_p
+* Encoder-only
+* Decoder-only
+* Hands on - Similaridade
+* Explorando Soluções
+* Engenharia de Prompt
+* Arquitetura RAG
 
 ---
 
