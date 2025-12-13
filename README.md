@@ -29,7 +29,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 * [Introdução as diferenças de AI](./gen-ai/02-introducao-as-diferencas-de-ai/resumo.md)
 * [Como GEN AI aprende](./gen-ai/03-como-gen-ai-aprende/resumo.md)
 * [História da AI](./gen-ai/04-historia-da-ai-o-inicio/resumo.md)
-* O Inverno da AI
+* [O Inverno da AI](./gen-ai/05-o-inverno-ai/resumo.md)
 * Evolução dos modelos 2 grama
 
 ### Aprofundamento na AI e LLM
