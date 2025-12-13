@@ -16,8 +16,8 @@ Contudo, o objetivo final não é criar uma cópia perfeita de "A Noite Estrelad
 
 Assim como nossa aluna de arte aprendeu com pinturas, a IA pode aprender com qualquer tipo de dado para então criar algo novo. Esse processo fascinante, que transforma informação em criação, pode ser entendido em duas fases essenciais:
 
-* **A Fase de Aprendizagem:** Primeiro, a IA é imersa em um universo de dados — textos, imagens, sons ou códigos. Vamos usar o exemplo de um leitor chamado Natan. A IA analisa cada livro que ele já leu, aprendendo sobre seus gêneros preferidos, autores favoritos e os temas que despertam seu interesse.
-* **O Salto Criativo (Da Previsão à Geração):** Com base nesse aprendizado, uma IA tradicional poderia apenas prever qual livro existente Natan gostaria de ler. A IA generativa dá um passo revolucionário: ela usa esse conhecimento para criar o livro que ele quer ler. Em vez de recomendar algo da prateleira, ela gera um texto inédito, com uma história e personagens originais, mas perfeitamente alinhado aos gostos de Natan. Aqui está a mágica: saímos da previsão para a pura criação.
+* **A Fase de Aprendizagem:** Primeiro, a IA é imersa em um universo de dados — textos, imagens, sons ou códigos. Vamos usar o exemplo de um leitor chamado Joseph. A IA analisa cada livro que ele já leu, aprendendo sobre seus gêneros preferidos, autores favoritos e os temas que despertam seu interesse.
+* **O Salto Criativo (Da Previsão à Geração):** Com base nesse aprendizado, uma IA tradicional poderia apenas prever qual livro existente Joseph gostaria de ler. A IA generativa dá um passo revolucionário: ela usa esse conhecimento para criar o livro que ele quer ler. Em vez de recomendar algo da prateleira, ela gera um texto inédito, com uma história e personagens originais, mas perfeitamente alinhado aos gostos de Joseph. Aqui está a mágica: saímos da previsão para a pura criação.
 
 ## Exemplos do Mundo Real: O que a IA Generativa já Consegue Criar?
 
