@@ -30,7 +30,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 * [Como GEN AI aprende](./gen-ai/03-como-gen-ai-aprende/resumo.md)
 * [História da AI](./gen-ai/04-historia-da-ai-o-inicio/resumo.md)
 * [O Inverno da AI](./gen-ai/05-o-inverno-ai/resumo.md)
-* Evolução dos modelos 2 grama
+* [Evolução dos modelos 2 grama](./gen-ai/06-evolucao-dos-modelos-2-grama/resumo.md)
 
 ### Aprofundamento na AI e LLM
 * Cadeias de Markov
