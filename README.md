@@ -33,7 +33,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 * [Evolução dos modelos 2 grama](./gen-ai/06-evolucao-dos-modelos-2-grama/resumo.md)
 
 ### Aprofundamento na AI e LLM
-* Cadeias de Markov
+* [Cadeias de Markov](./aprofundando-ia-llm/01-cadeias-de-markov/resumo.md)
 * Redes Neurais Profundas
 * RNNs
 * Transformers
