@@ -55,17 +55,12 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 * Raciocínio Simbólico
 * Conhecimento em tempo real
 * Objetivos Geração de Respostas
-
-### Hands On
 * Introdução a temperatura
-* Hands on - Temperatura
-* Hands on - Janela tokens
 * Top_k e Top_p
 * Encoder-only
 * Decoder-only
-* Hands on - Similaridade
 * Explorando Soluções
-* Engenharia de Prompt
+* Introdução Engenharia de Prompt
 * Arquitetura RAG
 
 ---
