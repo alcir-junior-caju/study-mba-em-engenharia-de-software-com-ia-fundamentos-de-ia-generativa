@@ -34,7 +34,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 
 ### Aprofundamento na AI e LLM
 * [Cadeias de Markov](./aprofundando-ia-llm/01-cadeias-de-markov/resumo.md)
-* Redes Neurais Profundas
+* [Redes Neurais Profundas](./aprofundando-ia-llm/02-redes-neurais-profundas/resumo.md)
 * RNNs
 * Transformers
 * Tokens
