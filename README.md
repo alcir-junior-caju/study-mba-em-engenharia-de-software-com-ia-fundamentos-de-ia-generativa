@@ -36,7 +36,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 * [Cadeias de Markov](./aprofundando-ia-llm/01-cadeias-de-markov/resumo.md)
 * [Redes Neurais Profundas](./aprofundando-ia-llm/02-redes-neurais-profundas/resumo.md)
 * [RNNs](./aprofundando-ia-llm/03-redes-neurais-recorrentes-rnns/resumo.md)
-* Transformers
+* [Transformers](./aprofundando-ia-llm/04-transformers/resumo.md)
 * Tokens
 * LLMs
 * GANs
