@@ -37,7 +37,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 * [Redes Neurais Profundas](./aprofundando-ia-llm/02-redes-neurais-profundas/resumo.md)
 * [RNNs](./aprofundando-ia-llm/03-redes-neurais-recorrentes-rnns/resumo.md)
 * [Transformers](./aprofundando-ia-llm/04-transformers/resumo.md)
-* Tokens
+* [Tokens](./aprofundando-ia-llm/05-tokens/resumo.md)
 * LLMs
 * GANs
 * Aprofundamento em LLM
