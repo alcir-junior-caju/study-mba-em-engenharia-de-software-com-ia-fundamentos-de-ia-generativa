@@ -38,7 +38,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 * [RNNs](./aprofundando-ia-llm/03-redes-neurais-recorrentes-rnns/resumo.md)
 * [Transformers](./aprofundando-ia-llm/04-transformers/resumo.md)
 * [Tokens](./aprofundando-ia-llm/05-tokens/resumo.md)
-* LLMs
+* [LLMs](./aprofundando-ia-llm/06-llms/resumo.md)
 * GANs
 * Aprofundamento em LLM
 * Position Wise Layers
