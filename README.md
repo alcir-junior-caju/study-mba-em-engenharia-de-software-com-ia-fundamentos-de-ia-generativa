@@ -39,7 +39,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 * [Transformers](./aprofundando-ia-llm/04-transformers/resumo.md)
 * [Tokens](./aprofundando-ia-llm/05-tokens/resumo.md)
 * [LLMs](./aprofundando-ia-llm/06-llms/resumo.md)
-* GANs
+* [GANs](./aprofundando-ia-llm/07-gans/resumo.md)
 * Aprofundamento em LLM
 * Position Wise Layers
 * Positional Encoding
