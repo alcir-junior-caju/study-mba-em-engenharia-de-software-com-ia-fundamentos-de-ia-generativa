@@ -10,11 +10,6 @@ O segredo do sucesso das GANs não está em um único algoritmo complexo, mas si
 ## 2. O Coração das GANs: Conheça os Dois Competidores
 O sistema das GANs funciona com base em uma competição contínua entre duas redes neurais distintas: o **Gerador** e o **Discriminador**. Nessa disputa, um força o outro a melhorar constantemente.
 
-
-
-[Image of Generative Adversarial Network architecture diagram]
-
-
 * **O Gerador:** Sua missão é criar algo novo, como imagens, que pareçam o mais autênticas possível.
 * **O Discriminador:** Sua missão é analisar o que foi criado pelo Gerador e julgar se aquilo é real ou falso.
 
