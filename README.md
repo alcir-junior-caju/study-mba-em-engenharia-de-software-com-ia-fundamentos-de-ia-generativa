@@ -40,7 +40,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 * [Tokens](./aprofundando-ia-llm/05-tokens/resumo.md)
 * [LLMs](./aprofundando-ia-llm/06-llms/resumo.md)
 * [GANs](./aprofundando-ia-llm/07-gans/resumo.md)
-* Aprofundamento em LLM
+* [Aprofundamento em LLM](./aprofundando-ia-llm/08-aprofundando-llms/resumo.md)
 * Position Wise Layers
 * Positional Encoding
 * LayerNorm
