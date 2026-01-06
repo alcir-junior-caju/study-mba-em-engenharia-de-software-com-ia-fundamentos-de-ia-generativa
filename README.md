@@ -41,7 +41,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 * [LLMs](./aprofundando-ia-llm/06-llms/resumo.md)
 * [GANs](./aprofundando-ia-llm/07-gans/resumo.md)
 * [Aprofundamento em LLM](./aprofundando-ia-llm/08-aprofundando-llms/resumo.md)
-* Position Wise Layers
+* [Position Wise Layers](./aprofundando-ia-llm/09-position-wise-layers/resumo.md)
 * Positional Encoding
 * LayerNorm
 * Pré Treinamento
