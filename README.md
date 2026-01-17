@@ -45,7 +45,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 * [Positional Encoding](./aprofundando-ia-llm/10-positional-encoding/resumo.md)
 * [LayerNorm](./aprofundando-ia-llm/11-layernorm/resumo.md)
 * [Pré Treinamento](./aprofundando-ia-llm/12-pre-treinamento/resumo.md)
-* MLM
+* [MLM](./aprofundando-ia-llm/13-mlm-masked-language-modeling/resumo.md)
 * Fine Tuning Supervisionado
 * RLHF
 * Otimização para Grandes Modelos
