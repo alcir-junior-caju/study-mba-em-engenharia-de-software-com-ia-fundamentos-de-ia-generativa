@@ -46,7 +46,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 * [LayerNorm](./aprofundando-ia-llm/11-layernorm/resumo.md)
 * [Pré Treinamento](./aprofundando-ia-llm/12-pre-treinamento/resumo.md)
 * [MLM](./aprofundando-ia-llm/13-mlm-masked-language-modeling/resumo.md)
-* Fine Tuning Supervisionado
+* [Fine Tuning Supervisionado](./aprofundando-ia-llm/14-fine-tuning-supervisionado/resumo.md)
 * RLHF
 * Otimização para Grandes Modelos
 * Alucinação
