@@ -47,7 +47,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 * [Pré Treinamento](./aprofundando-ia-llm/12-pre-treinamento/resumo.md)
 * [MLM](./aprofundando-ia-llm/13-mlm-masked-language-modeling/resumo.md)
 * [Fine Tuning Supervisionado](./aprofundando-ia-llm/14-fine-tuning-supervisionado/resumo.md)
-* RLHF
+* [RLHF](./aprofundando-ia-llm/15-rlhf-reinforcement-learning-from-human-feedback/resumo.md)
 * Otimização para Grandes Modelos
 * Alucinação
 * Estratégias Alucinação
