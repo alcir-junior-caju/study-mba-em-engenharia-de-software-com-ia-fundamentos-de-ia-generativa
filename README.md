@@ -48,7 +48,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 * [MLM](./aprofundando-ia-llm/13-mlm-masked-language-modeling/resumo.md)
 * [Fine Tuning Supervisionado](./aprofundando-ia-llm/14-fine-tuning-supervisionado/resumo.md)
 * [RLHF](./aprofundando-ia-llm/15-rlhf-reinforcement-learning-from-human-feedback/resumo.md)
-* Otimização para Grandes Modelos
+* [Otimização para Grandes Modelos](./aprofundando-ia-llm/16-otimizacao-grandes-modelos/resumo.md)
 * Alucinação
 * Estratégias Alucinação
 * Context Window
