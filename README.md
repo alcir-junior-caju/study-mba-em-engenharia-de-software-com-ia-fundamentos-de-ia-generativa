@@ -49,7 +49,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 * [Fine Tuning Supervisionado](./aprofundando-ia-llm/14-fine-tuning-supervisionado/resumo.md)
 * [RLHF](./aprofundando-ia-llm/15-rlhf-reinforcement-learning-from-human-feedback/resumo.md)
 * [Otimização para Grandes Modelos](./aprofundando-ia-llm/16-otimizacao-grandes-modelos/resumo.md)
-* Alucinação
+* [Alucinação](./aprofundando-ia-llm/17-alucinacao/resumo.md)
 * Estratégias Alucinação
 * Context Window
 * Raciocínio Simbólico
