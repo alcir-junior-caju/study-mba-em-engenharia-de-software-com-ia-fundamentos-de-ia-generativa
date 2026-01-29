@@ -50,7 +50,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 * [RLHF](./aprofundando-ia-llm/15-rlhf-reinforcement-learning-from-human-feedback/resumo.md)
 * [Otimização para Grandes Modelos](./aprofundando-ia-llm/16-otimizacao-grandes-modelos/resumo.md)
 * [Alucinação](./aprofundando-ia-llm/17-alucinacao/resumo.md)
-* Estratégias Alucinação
+* [Estratégias Alucinação](./aprofundando-ia-llm/18-estrategias-alucinacao/resumo.md)
 * Context Window
 * Raciocínio Simbólico
 * Conhecimento em tempo real
