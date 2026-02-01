@@ -51,7 +51,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 * [Otimização para Grandes Modelos](./aprofundando-ia-llm/16-otimizacao-grandes-modelos/resumo.md)
 * [Alucinação](./aprofundando-ia-llm/17-alucinacao/resumo.md)
 * [Estratégias Alucinação](./aprofundando-ia-llm/18-estrategias-alucinacao/resumo.md)
-* Context Window
+* [Context Window](./aprofundando-ia-llm/19-context-window/resumo.md)
 * Raciocínio Simbólico
 * Conhecimento em tempo real
 * Objetivos Geração de Respostas
