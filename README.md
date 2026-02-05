@@ -52,7 +52,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 * [Alucinação](./aprofundando-ia-llm/17-alucinacao/resumo.md)
 * [Estratégias Alucinação](./aprofundando-ia-llm/18-estrategias-alucinacao/resumo.md)
 * [Context Window](./aprofundando-ia-llm/19-context-window/resumo.md)
-* Raciocínio Simbólico
+* [Raciocínio Simbólico](./aprofundando-ia-llm/20-raciocinio-simbolico/resumo.md)
 * Conhecimento em tempo real
 * Objetivos Geração de Respostas
 * Introdução a temperatura
