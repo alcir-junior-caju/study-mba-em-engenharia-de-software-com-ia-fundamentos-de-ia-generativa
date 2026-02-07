@@ -53,7 +53,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 * [Estratégias Alucinação](./aprofundando-ia-llm/18-estrategias-alucinacao/resumo.md)
 * [Context Window](./aprofundando-ia-llm/19-context-window/resumo.md)
 * [Raciocínio Simbólico](./aprofundando-ia-llm/20-raciocinio-simbolico/resumo.md)
-* Conhecimento em tempo real
+* [Conhecimento em tempo real](./aprofundando-ia-llm/21-conhecimento-em-tempo-real/resumo.md)
 * Objetivos Geração de Respostas
 * Introdução a temperatura
 * Top_k e Top_p
