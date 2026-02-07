@@ -54,8 +54,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 * [Context Window](./aprofundando-ia-llm/19-context-window/resumo.md)
 * [Raciocínio Simbólico](./aprofundando-ia-llm/20-raciocinio-simbolico/resumo.md)
 * [Conhecimento em tempo real](./aprofundando-ia-llm/21-conhecimento-em-tempo-real/resumo.md)
-* Objetivos Geração de Respostas
-* Introdução a temperatura
+* [Introdução a temperatura](./aprofundando-ia-llm/22-temperatura/resumo.md)
 * Top_k e Top_p
 * Encoder-only
 * Decoder-only
