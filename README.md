@@ -55,7 +55,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 * [Raciocínio Simbólico](./aprofundando-ia-llm/20-raciocinio-simbolico/resumo.md)
 * [Conhecimento em tempo real](./aprofundando-ia-llm/21-conhecimento-em-tempo-real/resumo.md)
 * [Introdução a temperatura](./aprofundando-ia-llm/22-temperatura/resumo.md)
-* Top_k e Top_p
+* [Top_k e Top_p](./aprofundando-ia-llm/23-top-k-top-p/resumo.md)
 * Encoder-only
 * Decoder-only
 * Explorando Soluções
