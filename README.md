@@ -56,7 +56,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 * [Conhecimento em tempo real](./aprofundando-ia-llm/21-conhecimento-em-tempo-real/resumo.md)
 * [Introdução a temperatura](./aprofundando-ia-llm/22-temperatura/resumo.md)
 * [Top_k e Top_p](./aprofundando-ia-llm/23-top-k-top-p/resumo.md)
-* Encoder-only
+* [Encoder-only](./aprofundando-ia-llm/24-encoder-only/resumo.md)
 * Decoder-only
 * Explorando Soluções
 * Introdução Engenharia de Prompt
