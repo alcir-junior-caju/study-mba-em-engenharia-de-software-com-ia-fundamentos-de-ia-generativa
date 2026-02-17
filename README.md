@@ -58,7 +58,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 * [Top_k e Top_p](./aprofundando-ia-llm/23-top-k-top-p/resumo.md)
 * [Encoder-only](./aprofundando-ia-llm/24-encoder-only/resumo.md)
 * [Decoder-only](./aprofundando-ia-llm/25-decoder-only/resumo.md)
-* Introdução Engenharia de Prompt
+* [Introdução Engenharia de Prompt](./aprofundando-ia-llm/26-introducao-engenharia-prompt/resumo.md)
 * Arquitetura RAG
 
 ---
