@@ -59,7 +59,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 * [Encoder-only](./aprofundando-ia-llm/24-encoder-only/resumo.md)
 * [Decoder-only](./aprofundando-ia-llm/25-decoder-only/resumo.md)
 * [Introdução Engenharia de Prompt](./aprofundando-ia-llm/26-introducao-engenharia-prompt/resumo.md)
-* Arquitetura RAG
+* [Arquitetura RAG](./aprofundando-ia-llm/27-arquitetura-rag/resumo.md)
 
 ---
 
